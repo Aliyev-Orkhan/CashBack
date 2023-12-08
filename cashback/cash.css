@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    background-color: rgb(190, 134, 242);
+}
+
+#out{
+background-color:rgb(10, 9, 9)
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
